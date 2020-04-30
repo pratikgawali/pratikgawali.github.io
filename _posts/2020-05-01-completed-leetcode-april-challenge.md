@@ -4,7 +4,7 @@ title: Challenge completed
 subtitle: Leetcode April 30 days challenge
 gh-repo: pratikgawali/leetcode-30-days-challenge
 gh-badge: [star, fork, follow]
-comments: true
+comments: false
 ---
 
 During this COVID-19 pandemic, as everyone is encouraged to stay indoors and save the world, it is also a great opportunity for us to build some skills. I stumbled upon one such opportunity few days after a lockdown was announced (last week of March) in India - [Leetcode](https://leetcode.com/) April 30 days challenge. It was a perfect opportunity for me to strengthen my competitive coding skills.
