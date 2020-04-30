@@ -4,7 +4,6 @@ title: Challenge completed
 subtitle: Leetcode April 30 days challenge
 gh-repo: pratikgawali/leetcode-30-days-challenge
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
