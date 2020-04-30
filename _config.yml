@@ -22,7 +22,7 @@ description: Software Developer at SAP Labs India
 navbar-links:
   About: "aboutme"
   Projects: ""
-  Resume: "" 
+  Resume: "files/resume.pdf" 
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
@@ -69,7 +69,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  #rss: false
   email: "pratik.gawali@hotmail.com"
   #facebook: deanattali
   github: "pratikgawali"
