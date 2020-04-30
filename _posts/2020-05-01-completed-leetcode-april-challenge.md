@@ -14,6 +14,7 @@ In this challenge, a problem would appear at midnight PDT each day, and 24 hours
 More than solving problems, I believe the real challenge was to not to loose the streak. Apart from my coding skills, few things that completing this challenge has taught me are: time-management, self-control, persistence and patience. Overall, I feel this challenge was worth it and moving forward I think I will take more such challenges with even more difficulty to constantly improve myself.
 
 #### Here are my codes for each day:
+<br />
 
 |  Day #  |      Title     |   Solutions  | Tag                   
 |-----|----------------|---------------|-------------
