@@ -7,13 +7,14 @@ gh-badge: [star, fork, follow]
 comments: true
 ---
 
-During this COVID-19 pandemic, everyone is encouraged to stay indoors and save the world. This is also a great opportunity for me to build some skills. [Leetcode's](https://leetcode.com/) April 30 days challenge was a perfect place to strengthen my competitive coding skills.
+During this COVID-19 pandemic, as everyone is encouraged to stay indoors and save the world, it is also a great opportunity for us to build some skills. I stumbled on one such opportunity few days after a lockdown was announced (last week of March) in India - [Leetcode](https://leetcode.com/) April 30 days challenge. It was a perfect opportunity for me to strengthen my competitive coding skills.
 
 In this challenge, a problem would appear at midnight PDT each day, and 24 hours would be given to solve it. The challenge which started with easy problems soon turned into challenging problems. Some days I could solve the problem in few minutes but there were days that required an investment of quite a few hours. 
 
 More than solving problems, I believe the real challenge was to not to loose the streak. Apart from my coding skills, few things that completing this challenge has taught me are: time-management, self-control, persistence and patience. Overall, I feel this challenge was worth it and moving forward I think I will take more such challenges with even more difficulty to constantly improve myself.
 
-## Here are my codes for each day:
+### Here are my codes for each day:
+<br />
 
 |  Day #  |      Title     |   Solutions  | Tag                   
 |-----|----------------|---------------|-------------
