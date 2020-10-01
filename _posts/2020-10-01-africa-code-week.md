@@ -2,8 +2,6 @@
 layout: post
 title: Took a Coding Session for African Teachers
 subtitle: Africa Code Week 2020
-gh-repo: pratikgawali/leetcode-30-days-challenge
-gh-badge: [star, fork, follow]
 comments: false
 ---
 [**AfricaCodeWeek**](https://africacodeweek.org/) is an initiative by **SAP** for digital skill development in Africa. The initiative has benefitted millions of Africans and is openly supported by **UNESCO** along with 130 partners.
