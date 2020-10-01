@@ -27,6 +27,6 @@ Here are some glimpse of the session:
 
 ![ACW1](https://pratikgawali.github.io/img/ACW1.PNG)
 
-![ACW2](https://pratikgawali.github.io/img/ACW1.PNG)
+![ACW2](https://pratikgawali.github.io/img/ACW2.PNG)
 
 Overall it was a wonderful experience and I felt quite positive after delivering the session. I would definitely involve myself more in such social activities in future as it fills you with positive energy and a sense of satisfaction. 
