@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Took coding session for African Teachers
+title: Took a Coding Session for African Teachers
 subtitle: Africa Code Week 2020
 gh-repo: pratikgawali/leetcode-30-days-challenge
 gh-badge: [star, fork, follow]
